@@ -16,7 +16,7 @@
 <br />
 <br />
 
-👉 Entre em contato.
+:point_down: Entre em contato.
 
 <br />
 
