@@ -8,14 +8,14 @@ class ChartWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 72.0,
-      width: 72.0,
+      height: 64.0,
+      width: 64.0,
       child: Stack(
         children: [
           Center(
             child: Container(
-              height: 72.0,
-              width: 72.0,
+              height: 64.0,
+              width: 64.0,
               child: CircularProgressIndicator(
                 strokeWidth: 10.0,
                 value: .75,
