@@ -31,9 +31,12 @@ class _QuizWidgetState extends State<QuizWidget> {
           SizedBox(
             height: 32.0,
           ),
-          Text(
-            widget.question.title,
-            style: AppTextStyles.heading15,
+          Padding(
+            padding: const EdgeInsets.all(16.0),
+            child: Text(
+              widget.question.title,
+              style: AppTextStyles.heading15,
+            ),
           ),
           SizedBox(
             height: 24.0,
