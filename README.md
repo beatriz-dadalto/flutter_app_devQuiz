@@ -8,11 +8,11 @@
 
 <br />
 
-<img src="https://github.com/biacoelho/flutter_app_devQuiz/blob/master/app_demo.gif" alt="app demo" width="260px"/>
+<img src="https://github.com/beatriz-dadalto/flutter_app_devQuiz/blob/master/app_demo.gif" alt="app demo" width="260px"/>
 
 <br />
 
-### [](https://github.com/biacoelho/flutter_app_devQuiz#--sobre-o-projeto) 🔥 Sobre o projeto
+### [](https://github.com/beatriz-dadalto/flutter_app_devQuiz#--sobre-o-projeto) 🔥 Sobre o projeto
 
 Semana Next Level Week 5 - Evento promovido pela escola Rocketseat.
 
@@ -20,7 +20,7 @@ A aplicação é um QUIZ e consiste em exibir quantas perguntas o jogador acerto
 
 <br />
 
-### [](https://github.com/biacoelho/flutter_app_devQuiz#--tecnologias) 🤖 Tecnologias
+### [](https://github.com/beatriz-dadalto/flutter_app_devQuiz#--tecnologias) 🤖 Tecnologias
 
 - **Flutter**
 - **Dart**
@@ -30,12 +30,12 @@ A aplicação é um QUIZ e consiste em exibir quantas perguntas o jogador acerto
 
 <br />
 
-### [](https://github.com/biacoelho/flutter_app_devQuiz#--autor) 💎 Autor
+### [](https://github.com/beatriz-dadalto/flutter_app_devQuiz#--autor) 💎 Autor
 
 <a href="https://linktr.ee/biacoelho">
- <img style="border-radius: 8px" src="https://avatars.githubusercontent.com/u/29661219?s=460&u=42024e42215c64adeba9a923579809c57f36fe0d&v=4" width="100px;" alt="Bia Coelho"/>
+ <img style="border-radius: 8px" src="https://avatars.githubusercontent.com/u/29661219?s=460&u=42024e42215c64adeba9a923579809c57f36fe0d&v=4" width="100px;" alt="Beatriz Dadalto"/>
 <br />
-<sub><strong>Bia Coelho</strong></sub></a>
+<sub><strong>Beatriz Dadalto</strong></sub></a>
 
 <br />
 <br />
@@ -44,4 +44,4 @@ A aplicação é um QUIZ e consiste em exibir quantas perguntas o jogador acerto
 
 <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biacoelho)](https://www.linkedin.com/in/biacoelho)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-dadalto)](https://www.linkedin.com/in/beatriz-dadalto)
